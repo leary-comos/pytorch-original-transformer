@@ -51,4 +51,3 @@ def download_models(translation_config):
     download_url_to_file(remote_resource_path, model_path)
 
     return model_path
-
