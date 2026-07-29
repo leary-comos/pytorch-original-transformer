@@ -209,4 +209,3 @@ def get_beam_decoder(translation_config):
         return target_sentences_tokens_post
 
     return beam_decoding
-
