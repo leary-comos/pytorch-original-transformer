@@ -342,4 +342,3 @@ if __name__ == "__main__":
 
     # Show text from token loader
     sample_text_from_loader(src_field_processor, trg_field_processor, train_token_ids_loader)
-
